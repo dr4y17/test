@@ -1,1 +1,1 @@
-print('sosi pisos')
+print('sam sosi')
